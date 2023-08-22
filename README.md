@@ -1,3 +1,3 @@
-# Bootstrap Clone
+# Sistem Informasi Kepegawaian
 
-Clone Bootstrap Homepage with Bootstrap CSS Framework
+Sistem Informasi Kepegawaian with Bootstrap CSS Framework
